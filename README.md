@@ -5,7 +5,7 @@ Fetch complete Zillow property data from a list of URLs or ZPIDs. Returns price 
 **Run it on Apify:** [apify.com/themineworks/zillow-property-details](https://apify.com/themineworks/zillow-property-details)
 **Docs, FAQ and pricing:** [themineworks.com/actors/zillow-property-details](https://themineworks.com/actors/zillow-property-details/)
 
-**Price:** $1.75 per 1,000 properties on Apify's free plan, down to $1.00 on higher plans, plus a $0.005 start fee per run. Failed and empty results are never charged.
+**Price:** From $1.00 per 1,000 properties on Apify's higher plans ($1.75 on the free plan), plus a $0.005 start fee per run. Failed and empty results are never charged.
 
 ## What it returns
 
@@ -147,7 +147,7 @@ A Zillow Property ID, the unique numeric identifier Zillow assigns to every prop
 
 ### What is the price?
 
-$0.001/property ($1 per 1,000). Nothing charged on failure.
+Pay per result: from $1.00 per 1,000 properties on Apify's higher plans, $1.75 on the free plan, plus a $0.005 start fee per run. Failed results are never charged.
 
 ### How long does each property take?
 
